@@ -1,1 +1,1 @@
-Please download trained models from: [LINK]
+Please download the trained models from: [LINK]

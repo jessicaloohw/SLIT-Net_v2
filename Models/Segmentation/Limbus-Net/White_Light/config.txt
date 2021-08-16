@@ -1,0 +1,16 @@
+Configurations:
+BATCH_SIZE                     3 
+COMMENTS                       Final settings. 
+IMAGE_HEIGHT                   1024 
+IMAGE_WIDTH                    1536 
+LEARNING_RATE                  0.001 
+LOSS_PARAMS                    {'hausdorff_power': 2.0} 
+MOMENTUM                       0.9 
+NUM_FEATURES                   16 
+POOL_SIZE                      [4, 4, 4, 4] 
+QUEUE_PARAMS                   {'min_after_dequeue': 3, 'num_threads': 1, 'batch_size': 3, 'capacity': 6} 
+REGULARIZATION_WEIGHT          0.001 
+SUBTRACT_MEAN                  True 
+SUB_BATCHES                    1 
+USE_NESTEROV                   True 
+WITH_AUGMENTATION              True 

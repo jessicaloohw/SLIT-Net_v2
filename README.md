@@ -6,7 +6,7 @@ This repository contains the code for "J. Loo, M. A. Woodward, V. Prajna, M. F. 
 **DOI:** TBC  
 
 * Dataset download
-    * Please download the datasets from: [LINK]
+    * Please download the datasets from: https://duke.box.com/s/7m1dake4tbsexrwma4yjfnx7ia6badej
     
 * Trained models download
    * Please download the trained models from: [LINK]

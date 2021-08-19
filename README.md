@@ -9,7 +9,7 @@ This repository contains the code for "J. Loo, M. A. Woodward, V. Prajna, M. F. 
     * Please download the datasets from: https://duke.box.com/s/7m1dake4tbsexrwma4yjfnx7ia6badej
     
 * Trained models download
-   * Please download the trained models from: [LINK]
+   * Please download the trained models from: https://duke.box.com/s/shm18dwgfsy1x5u55tu6zeg02tai36d0
 
 * Training segmentation models
     * Please see ```Code/Segmentation/Segmentation_pipeline_white.sh``` and ```Code/Segmentation/Segmentation_pipeline_blue.sh```

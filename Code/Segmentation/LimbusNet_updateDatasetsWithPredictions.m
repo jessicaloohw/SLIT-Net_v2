@@ -1,6 +1,6 @@
 %
 % SLIT-Net v2
-% DOI: TBC
+% DOI: 10.1167/tvst.10.12.2
 %
 % Update test datasets with predicted limbus
 %

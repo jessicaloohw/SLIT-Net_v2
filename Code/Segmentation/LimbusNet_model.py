@@ -1,3 +1,6 @@
+# SLIT-Net v2
+# DOI: 10.1167/tvst.10.12.2
+
 import tensorflow as tf
 import numpy as np
 

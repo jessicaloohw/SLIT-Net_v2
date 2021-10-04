@@ -1,6 +1,6 @@
 # SLIT-Net_v2
 
-This repository contains the code for "J. Loo, M. A. Woodward, V. Prajna, M. F. Kriegel, M. Pawar, M. Khan, L. M. Niziol, and S. Farsiu, “Open-Source Automatic Biomarker Measurement on Slit-Lamp Photography to Estimate Visual Acuity in Microbial Keratitis”, *Translational Vision Science & Technology, (IN PRESS),* 2021"
+This repository contains the code for "J. Loo, M. A. Woodward, V. Prajna, M. F. Kriegel, M. Pawar, M. Khan, L. M. Niziol, and S. Farsiu, “Open-Source Automatic Biomarker Measurement on Slit-Lamp Photography to Estimate Visual Acuity in Microbial Keratitis”, *Translational Vision Science & Technology* 10(12):2, 2021"
 
 **Link:** https://tvst.arvojournals.org/article.aspx?articleid=2777943  
 **DOI:** [10.1167/tvst.10.12.2](https://doi.org/10.1167/tvst.10.12.2)  

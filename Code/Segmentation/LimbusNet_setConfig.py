@@ -1,3 +1,6 @@
+# SLIT-Net v2
+# DOI: 10.1167/tvst.10.12.2
+
 import os
 import pickle
 from LimbusNet_utils import SegmentationConfig as Config

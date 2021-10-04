@@ -8,6 +8,9 @@ Written by Waleed Abdulla
 
 Modified by Jessica Loo for SLIT-Net_v2.
 
+SLIT-Net v2
+DOI: 10.1167/tvst.10.12.2
+
 """
 
 import os

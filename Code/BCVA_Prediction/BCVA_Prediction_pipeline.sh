@@ -2,6 +2,9 @@
 
 export CUDA_VISIBLE_DEVICES=0
 
+# SLIT-Net v2
+# DOI: 10.1167/tvst.10.12.2
+
 # Note: (1) To reproduce published results, use the models in "Trained_Models"
 #       (2) Uncomment the sections of code you wish to run
 #       (3) Run *.m files in MATLAB
